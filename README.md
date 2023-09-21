@@ -9,3 +9,7 @@ Paragraph even too lazy to include lorem ipsum dolores
 ## Some other heading
 
 Without context
+
+## Ready for release
+
+Go

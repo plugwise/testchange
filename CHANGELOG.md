@@ -20,6 +20,20 @@ nothing
 
 nothing
 
+## [0.1.0]
+
+### Added
+
+nothing
+
+### Changed
+
+nothing
+
+### Fixed
+
+nothing
+
 ## [0.0.5]
 
 ### Added
