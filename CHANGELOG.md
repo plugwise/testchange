@@ -18,5 +18,33 @@ nothing
 
 ### Fixed
 
+nothing
+
+## [0.0.3]
+
+### Added
+
+Releasing changes since 0.0.1
+
+### Changed
+
+nothing
+
+### Fixed
+
+* Initial setup
+
+## [0.0.2]
+
+### Added
+
+Fixed oops
+
+### Changed
+
+nothing
+
+### Fixed
+
 * Initial setup
 
