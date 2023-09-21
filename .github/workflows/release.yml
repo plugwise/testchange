@@ -9,7 +9,6 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - uses: CSchoel/release-notes-from-changelog@v1
-        with:
       # use GitHub CLI to create release
       # see https://cli.github.com/manual/gh_release_create
       - name: Create Release
