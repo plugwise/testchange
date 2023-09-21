@@ -2,6 +2,10 @@
 
 ## Versions from 0.40 and up
 
+## [0.42.1] - Point-release
+
+- Nothing done but this changelog amending
+
 ## [0.42.0] - Bugfixes
 
 - Bugfixes and adding daily full-updating via [plugwise v0.33.0](https://github.com/plugwise/python-plugwise/releases/tag/v0.33.0)
