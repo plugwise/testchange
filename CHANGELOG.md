@@ -20,6 +20,20 @@ nothing
 
 nothing
 
+## [0.0.4]
+
+### Added
+
+nothing
+
+### Changed
+
+nothing
+
+### Fixed
+
+Also pre-release (not just private release)
+
 ## [0.0.3]
 
 ### Added
